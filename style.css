@@ -77,7 +77,6 @@ a.link {
     width: 90%;
     color: black;
     text-decoration: none;
-    display: inline-block
 }
 .nav-bottom a:link, a:visited, a:active{
     text-decoration: none;
