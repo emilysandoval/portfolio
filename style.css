@@ -21,7 +21,7 @@ a.link {
 .header a:link, a:visited, a:active {
     text-decoration: none;
 }
-.header a:hover {
+.header h1 a:hover {
     color: darkgoldenrod;
 }
 .navbar {
