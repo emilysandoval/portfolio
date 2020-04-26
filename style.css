@@ -88,11 +88,9 @@ a.link {
 }
 .nav-bottom #next {
     float: right;
-    margin-left: 50%;
 }
 .nav-bottom #previous {
     float: left;
-    margin-right: 50%;
 }
 .footer {
     font-size: 1em;
@@ -141,7 +139,6 @@ h4 {
     margin-right: 15px;
     position: absolute;
 }
-
 #portrait, .about {
     margin-top: 10%;
 }
