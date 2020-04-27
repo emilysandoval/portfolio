@@ -82,7 +82,7 @@ body {
     color: black;
 }
 .nav-bottom a:hover {
-    color: darkgoldenrod;
+    color: rebeccapurple;
 }
 .nav-bottom #next {
     float: right;
@@ -137,4 +137,13 @@ h4 {
 }
 #portrait, .about {
     margin-top: 10%;
+}
+#email {
+    font-size: 1em;
+}
+#email a:link, a:visited, a:active {
+    color: black;
+}
+#email a:hover {
+    color: rebeccapurple;
 }
