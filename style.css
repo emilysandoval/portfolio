@@ -20,7 +20,7 @@ body {
     color: black;
 }
 .header h1 a:hover {
-    color: darkgoldenrod;
+    color: darkgoldenrod !important;
 }
 .navbar {
     text-align: center;
