@@ -82,7 +82,7 @@ body {
     color: black;
 }
 .nav-bottom a:hover {
-    color: rebeccapurple;
+    color: teal;
 }
 .nav-bottom #next {
     float: right;
@@ -91,9 +91,25 @@ body {
     float: left;
 }
 .footer {
-    font-size: 1em;
-    margin-top: 10%;
+    font-size: 11px;
+    margin-top: 50px;
     text-align: center;
+}
+.footer a {
+    font-size: 1.7em;
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer a:link, a:active, a:visited {
+    text-decoration: none;
+    color: black;
+}
+.footer a:hover {
+    text-decoration: none;
+    color: darkgoldenrod;
 }
 h1 {
     font-size: 2em;
